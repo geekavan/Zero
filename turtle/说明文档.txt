@@ -1,0 +1,2 @@
+1.graduate_turtle_2是核心，graduate_turtle_1和graduate_turtle_3都是由graduate_turtle_2更改而来
+2._1是选择海归交易法则参数，_2是某一个参数的具体表现，_3是某一个参数加入止损之后的表现
